@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome to Stardust Labs 👋
+We are a young team of developers from Germany.
+You can find out more about us on our website http://stardustlabs.de
+
+
+
+
 
 <!--
 
